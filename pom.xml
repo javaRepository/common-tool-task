@@ -6,7 +6,7 @@
 
     <groupId>common.tool</groupId>
     <artifactId>tool-task</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <properties>
